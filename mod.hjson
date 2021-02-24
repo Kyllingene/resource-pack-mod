@@ -1,0 +1,6 @@
+name: "silt-mod"
+displayName: "[yellow]Silt Mod[]"
+author: "Kyllingene"
+description: "This is a useless description."
+version: "1.0"
+minGameVersion: "105"
