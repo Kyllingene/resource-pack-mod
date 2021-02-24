@@ -6,6 +6,6 @@ Steps to make a resource pack:
 2. Make the new sprites, and name them the same as the sprites hey are replacing
 3. Make a new mod (with a valid mod.hjson)
 4. Put the new sprites in the sprites-override folder
-5. Use the mod
+5. Use the mod (Remember: use the folder *inside* the zip. *That* is the actual mod folder.)
 
 Example images used come from [Unsplash](https://unsplash.com)
